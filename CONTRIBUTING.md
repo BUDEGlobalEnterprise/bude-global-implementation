@@ -25,8 +25,8 @@ This project and everyone participating in it is governed by our [Code of Conduc
 1. **Fork the repository** on GitHub
 2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/bude-erpnext-implementation.git
-   cd bude-erpnext-implementation
+   git clone https://github.com/YOUR_USERNAME/bude-global-implementation.git
+   cd bude-global-implementation
    ```
 3. **Create a branch** for your changes:
    ```bash
@@ -37,7 +37,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 ### Reporting Bugs
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue and provide the following information:
+Bugs are tracked as [GitHub issues](https://github.com/BUDEGlobalEnterprise/bude-global-implementation/issues). Create an issue and provide the following information:
 
 - **Clear, descriptive title**
 - **Detailed steps to reproduce the issue**

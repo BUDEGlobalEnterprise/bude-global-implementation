@@ -17,14 +17,14 @@
 ## 1. 🏢 Company & Legal Setup
 
 ### 1.1 Core Company Information
-* [ ] Company Legal Name
-* [ ] Company Abbreviation
+* [x] Company Legal Name
+* [x] Company Abbreviation
 * [ ] Company Registration Number
 * [ ] Company Tax ID (GSTIN/PAN)
 * [ ] Company Establishment Date
-* [ ] Default Currency
-* [ ] Default Language
-* [ ] Time Zone Settings
+* [x] Default Currency
+* [x] Default Language
+* [x] Time Zone Settings
 
 ### 1.2 Financial Settings
 * [ ] Chart of Accounts (Import/Setup)
@@ -36,11 +36,11 @@
 * [ ] Credit Limit Policies
 
 ### 1.3 Company Branding
-* [ ] Company Logo Upload
+* [x] Company Logo Upload
 * [ ] Default Letterhead Design
-* [ ] Email Footer Templates
+* [x] Email Footer Templates
 * [ ] Brand Colors Configuration
-* [ ] Website Link Setup
+* [x] Website Link Setup
 
 ---
 
@@ -54,9 +54,9 @@
 * [ ] Reporting Structure Mapping
 
 ### 2.2 Leave & Attendance
-* [ ] Leave Policy Types (Casual, Sick, Earned, Maternity, Paternity, Optional)
+* [x] Leave Policy Types (Casual, Sick, Earned, Maternity, Paternity, Optional)
 * [ ] Leave Allocation Rules
-* [ ] Holiday List (Import CSV with regional holidays)
+* [x] Holiday List (Import CSV with regional holidays)
 * [ ] Attendance Policy
 * [ ] Shift Types (General, Night, Flexible, Rotational)
 * [ ] Overtime Policy

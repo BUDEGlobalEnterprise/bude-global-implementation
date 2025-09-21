@@ -1,0 +1,83 @@
+title,terms,disabled,buying,selling,hr
+"Early Payment Discount","1. A 2% discount will be applied if payment is received within 10 days.\n2. No discount is available after 10 days.\n3. Discount applies to invoice total excluding taxes.",0,1,1,0
+"Late Delivery Penalty","1. If delivery is delayed beyond agreed timeline, a penalty of 0.5% per day will be charged.\n2. Maximum penalty capped at 10% of total invoice.\n3. Force majeure events are exempt.",0,1,0,0
+"Shipping Responsibility","1. Seller is responsible for safe delivery until goods reach the buyer’s warehouse.\n2. Any damage during transit is the seller’s liability.\n3. Buyer must inspect goods within 48 hours of receipt.",0,1,1,0
+"International Sales Terms","1. All international orders are subject to Incoterms 2020.\n2. Customs duties and import taxes are buyer’s responsibility.\n3. Payment must be made in USD unless otherwise agreed.",0,0,1,0
+"Return Policy - 30 Days","1. Products can be returned within 30 days if unused and in original packaging.\n2. A restocking fee of 10% may apply.\n3. Refunds will be issued within 7 business days.",0,0,1,0
+"Non-Disclosure Agreement (NDA)","1. Both parties agree to maintain confidentiality of all shared information.\n2. Information may only be disclosed with written consent.\n3. Breach of NDA may lead to legal action.",0,1,1,1
+"Subcontractor Terms","1. Subcontractors must be pre-approved by the client.\n2. The company remains responsible for all deliverables.\n3. Confidentiality obligations extend to subcontractors.",0,0,1,1
+"Subscription Terms - SaaS","1. Subscription is billed monthly in advance.\n2. Non-payment within 15 days leads to account suspension.\n3. Cancellations must be made 7 days before renewal date.",0,0,1,0
+"Data Privacy Policy","1. All personal data will be processed in compliance with GDPR.\n2. Customer data will not be shared without consent.\n3. Data retention period is 5 years unless legally required.",0,0,1,1
+"Intellectual Property Rights","1. All deliverables remain the intellectual property of the company until full payment.\n2. Upon payment, client receives full usage rights.\n3. Company retains the right to reuse non-confidential components.",0,0,1,0
+"Force Majeure","1. Neither party will be liable for failure due to natural disasters, war, or strikes.\n2. Obligations will resume once conditions normalize.\n3. Contracts may be renegotiated in prolonged disruptions.",0,1,1,1
+"Termination Clause","1. Either party may terminate this agreement with 30 days’ notice.\n2. Pending obligations must be fulfilled prior to termination.\n3. Breach of terms may lead to immediate termination.",0,1,1,1
+"Training Services Terms","1. Training fees must be paid in full before the session.\n2. Cancellations within 48 hours are non-refundable.\n3. Materials provided are for internal use only.",0,0,1,0
+"Consulting Services Agreement","1. Consulting services are billed hourly.\n2. Travel expenses are billed separately.\n3. Deliverables will be defined in the Statement of Work.",0,0,1,0
+"Annual Maintenance Contract","1. Includes preventive maintenance visits twice a year.\n2. Spare parts are billed separately.\n3. Contract renews annually unless canceled in writing.",0,1,1,0
+"Vendor Compliance Policy","1. All vendors must comply with company’s ethical standards.\n2. Non-compliance may result in termination of business.\n3. Vendor audits may be conducted periodically.",0,1,0,0
+"Employee Non-Compete Agreement","1. Employee agrees not to join competitors for 12 months after leaving.\n2. Applies only to direct competitors in the same market.\n3. Violation may result in legal consequences.",0,0,0,1
+"Work From Home Policy","1. Employees must be available during core working hours.\n2. Company equipment provided must be used only for work.\n3. Data security guidelines must be strictly followed.",0,0,0,1
+"Expense Reimbursement Policy","1. Claims must be submitted within 30 days of expense.\n2. Only business-related expenses will be reimbursed.\n3. Receipts are mandatory for all claims.",0,0,0,1
+"Probation Period Terms","1. Employees will undergo a probation period of 6 months.\n2. During probation, either party can terminate with 7 days’ notice.\n3. Benefits eligibility begins post-confirmation.",0,0,0,1
+"Standard Payment Terms - 30 Days","1. Payment is due within 30 days of the invoice date.\n2. A finance charge of 1.5% per month will be applied to overdue balances.",0,1,1,0
+"Strict Payment Terms - 15 Days","1. Payment is due within 15 days of the invoice date.\n2. Payments must be made via bank transfer.",0,1,1,0
+"50% Advance, 50% on Delivery","1. 50% of the invoice value must be paid in advance.\n2. Remaining 50% due on delivery.",0,1,1,0
+"PO Required for All Orders","1. A valid Purchase Order is required before processing.\n2. Orders without PO will not be fulfilled.",0,1,0,0
+"Early Payment Discount","1. A 2% discount will apply if paid within 10 days.\n2. Discount not available after 10 days.",0,1,1,0
+"Late Delivery Penalty","1. If delivery is delayed, penalty of 0.5% per day applies.\n2. Maximum penalty capped at 10%.",0,1,0,0
+"Vendor Compliance Policy","1. Vendors must comply with company standards.\n2. Non-compliance may lead to termination.",0,1,0,0
+"Supplier Performance Evaluation","1. Supplier performance will be reviewed quarterly.\n2. Low performance may affect future orders.",0,1,0,0
+"Bulk Order Discounts","1. Discounts apply for orders exceeding thresholds.\n2. Discounts are pre-approved in writing.",0,1,1,0
+"Delivery Terms - FOB","1. Risk transfers once goods are loaded onto vessel.\n2. Buyer responsible for shipping costs.",0,1,1,0
+"Delivery Terms - CIF","1. Seller covers cost, insurance, and freight.\n2. Risk transfers upon arrival at port.",0,1,1,0
+"Goods Inspection Policy","1. Buyer must inspect goods within 48 hours.\n2. Any claims must be raised in writing.",0,1,1,0
+"Defective Material Returns","1. Defective materials may be returned within 14 days.\n2. Replacement or refund will be provided.",0,1,1,0
+"Minimum Order Quantity","1. Orders below MOQ will not be accepted.\n2. Exceptions require approval.",0,1,1,0
+"Price Revision Clause","1. Prices may be revised annually based on inflation.\n2. Prior notice of 30 days will be given.",0,1,1,0
+"Advance Security Deposit","1. Some orders require advance deposits.\n2. Deposit will be adjusted against final invoice.",0,1,1,0
+"Custom Duties & Taxes","1. Buyer responsible for duties and taxes.\n2. Seller will assist with documentation.",0,1,1,0
+"Cancellation of Orders","1. Orders cancelled within 48 hours incur no penalty.\n2. After dispatch, cancellation not allowed.",0,1,1,0
+"Supplier Confidentiality","1. Suppliers must keep all trade terms confidential.\n2. Breach may result in legal action.",0,1,0,0
+"Import Licenses & Permits","1. Buyer responsible for import permits.\n2. Seller will provide necessary documents.",0,1,1,0
+"Product Substitution Policy","1. Seller may substitute equivalent products.\n2. Substitutions must be approved.",0,1,1,0
+"Annual Rate Contracts","1. Prices locked for annual contracts.\n2. Review after one year.",0,1,1,0
+"Packaging Standards","1. Goods must meet company packaging guidelines.\n2. Improper packaging may result in rejection.",0,1,0,0
+"Payment in Foreign Currency","1. Payments for exports must be in USD.\n2. Exchange rate based on invoice date.",0,1,1,0
+"Vendor Audit Rights","1. Buyer may audit vendor facilities.\n2. Non-compliance may result in termination.",0,1,0,0
+"Retail Sale - No Returns","1. All retail sales are final.\n2. Returns only for defective products.",0,0,1,0
+"Return Policy - 30 Days","1. Products can be returned within 30 days.\n2. A restocking fee may apply.",0,0,1,0
+"Standard Warranty - 1 Year","1. Covers manufacturing defects only.\n2. Misuse or mishandling voids warranty.",0,0,1,0
+"Extended Warranty - 3 Years","1. Covers defects for 3 years from purchase.\n2. Additional cost applies.",0,0,1,0
+"Custom Project Terms","1. IP remains with company until full payment.\n2. Revisions limited to 3 rounds.",0,0,1,0
+"Software License Agreement","1. Software licensed, not sold.\n2. Reverse engineering prohibited.",0,0,1,0
+"Subscription Terms - SaaS","1. Billed monthly in advance.\n2. Non-payment may suspend services.",0,0,1,0
+"Confidentiality Agreement","1. All terms are confidential.\n2. Breach may lead to legal action.",1,1,1,0
+"International Sales Terms","1. Governed by Incoterms 2020.\n2. Buyer responsible for customs.",0,0,1,0
+"Customer Support Policy","1. Standard support hours 9–6 Mon–Fri.\n2. Tickets responded within 24 hours.",0,0,1,0
+"Project Delivery Timelines","1. Timelines agreed in Statement of Work.\n2. Delays communicated in advance.",0,0,1,0
+"Annual Maintenance Contract","1. Preventive maintenance twice yearly.\n2. Spare parts billed separately.",0,1,1,0
+"Service Level Agreement (SLA)","1. Critical issues resolved in 4 hours.\n2. Non-critical within 48 hours.",0,0,1,0
+"Maintenance Service Agreement","1. Auto-renews unless cancelled 30 days prior.\n2. Includes limited on-site visits.",0,1,1,0
+"Consulting Services Agreement","1. Consulting billed hourly.\n2. Travel expenses billed separately.",0,0,1,0
+"Training Services Terms","1. Training fees prepaid.\n2. Materials for internal use only.",0,0,1,0
+"Implementation Services","1. Scope defined in project plan.\n2. Changes billed separately.",0,0,1,0
+"Freelancer Agreement","1. Payment upon milestone approval.\n2. Contractor responsible for taxes.",0,0,0,1
+"Employee Expense Policy","1. Expenses must comply with policy.\n2. Receipts required for reimbursement.",0,0,0,1
+"Leave Policy","1. Leaves must be applied 7 days in advance.\n2. Unused leaves cannot be carried forward.",0,0,0,1
+"Probation Period Terms","1. Probation lasts 6 months.\n2. Termination during probation requires 7 days’ notice.",0,0,0,1
+"Work From Home Policy","1. Employees must log working hours.\n2. Company equipment used only for work.",0,0,0,1
+"Overtime Policy","1. Overtime requires prior approval.\n2. Paid at 1.5x hourly rate.",0,0,0,1
+"Employee Non-Compete Agreement","1. Employee may not join competitors for 12 months post-employment.\n2. Applies to direct market competitors only.",0,0,0,1
+"Non-Disclosure Policy","1. Employees must not disclose trade secrets.\n2. Breach may result in termination.",0,0,0,1
+"Employee Code of Conduct","1. Employees must maintain professionalism.\n2. Misconduct may lead to disciplinary action.",0,0,0,1
+"Equal Opportunity Policy","1. Company provides equal employment opportunity.\n2. Discrimination is not tolerated.",0,0,0,1
+"Health & Safety Policy","1. Employees must follow workplace safety rules.\n2. Non-compliance may result in penalties.",0,0,0,1
+"Anti-Harassment Policy","1. Harassment is strictly prohibited.\n2. Complaints will be investigated fairly.",0,0,0,1
+"Grievance Redressal Policy","1. Employees may report grievances confidentially.\n2. HR must address within 14 days.",0,0,0,1
+"Remote Work Equipment Policy","1. Employees responsible for care of company devices.\n2. Lost equipment must be reported immediately.",0,0,0,1
+"Intellectual Property Rights","1. IP remains with company unless otherwise stated.\n2. Client receives usage rights upon payment.",0,0,1,0
+"Force Majeure","1. Parties not liable for natural disasters or strikes.\n2. Obligations resume post-event.",0,1,1,1
+"Termination Clause","1. Either party may terminate with 30 days’ notice.\n2. All obligations due must be settled.",0,1,1,1
+"Data Privacy Policy","1. Customer data will be protected as per GDPR.\n2. Retention limited to 5 years unless legally required.",0,0,1,1
+"Dispute Resolution Clause","1. Disputes settled via arbitration.\n2. Venue decided mutually.",0,1,1,1
+"Governing Law","1. Agreement governed by Indian law.\n2. Jurisdiction: Coimbatore courts.",0,1,1,1

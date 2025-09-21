@@ -15,11 +15,11 @@
 
 ## 1. 🏢 Bude Global Company & Legal Setup
 
-*   [ ] **Company:** `Bude Global`
-*   [ ] **Abbreviation:** `Bude`
+*   [x] **Company:** `Bude Global`
+*   [x] **Abbreviation:** `Bude`
 *   [ ] **Company Tax ID:** (GSTIN, VAT Number, etc.)
-*   [ ] **Default Currency:** `INR` (Primary), `USD`, `EUR`, `AED` (Secondary)
-*   [ ] **Fiscal Year:** `1-Apr-2024 to 31-Mar-2025`
+*   [x] **Default Currency:** `INR` (Primary), `USD`, `EUR`, `AED` (Secondary)
+*   [x] **Fiscal Year:** `1-Apr-2024 to 31-Mar-2025`
 *   [ ] **Chart of Accounts:** Import India-specific COA
 *   [ ] **Enable GST:** Configure GST settings for India
 *   [ ] **Create Letterhead:** Bude Global Official Letterhead with Logo, Address, GSTIN
@@ -28,12 +28,12 @@
 
 ## 2. 👥 Bude Global HR & Payroll
 
-*   [ ] **Departments:** `Management`, `Import`, `Export`, `Logistics`, `Finance`, `Sales`, `Procurement`, `Warehouse`
-*   [ ] **Designations:** `CEO`, `Export Manager`, `Import Manager`, `Logistics Coordinator`, `Accountant`, `Sales Executive`
-*   [ ] **Employee Grade:** `A`, `B`, `C`, `D`
-*   [ ] **Branch/Location:** `Head Office - Mumbai`, `Warehouse - Navi Mumbai`, `Dubai Office`
-*   [ ] **Leave Policy:** `Casual Leave`, `Sick Leave`, `Earned Leave`, `Maternity Leave`, `Paternity Leave`
-*   [ ] **Holiday List:** `Bude Global - India Holidays 2024` (Include national and state-specific holidays)
+*   [x] **Departments:** `Management`, `Import`, `Export`, `Logistics`, `Finance`, `Sales`, `Procurement`, `Warehouse`
+*   [x] **Designations:** `CEO`, `Export Manager`, `Import Manager`, `Logistics Coordinator`, `Accountant`, `Sales Executive`
+*   [x] **Employee Grade:** `A`, `B`, `C`, `D`
+*   [x] **Branch/Location:** `Head Office - Mumbai`, `Warehouse - Navi Mumbai`, `Dubai Office`
+*   [x] **Leave Policy:** `Casual Leave`, `Sick Leave`, `Earned Leave`, `Maternity Leave`, `Paternity Leave`
+*   [x] **Holiday List:** `Bude Global - India Holidays 2024` (Include national and state-specific holidays)
 *   [ ] **Salary Components:** `Basic`, `HRA`, `Conveyance`, `Special Allowance`, `PF`, `ESI`, `Professional Tax`
 *   [ ] **Shift:** `General Shift (9 AM - 6 PM)`, `Warehouse Shift`
 

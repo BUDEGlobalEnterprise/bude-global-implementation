@@ -48,14 +48,14 @@
 
 ### 2.1 Organizational Structure
 * [ ] Department Hierarchy
-* [ ] Designation Master
+* [x] Designation Master
 * [ ] Employee Grade Structure
-* [ ] Branch/Location Setup
+* [x] Branch/Location Setup
 * [ ] Reporting Structure Mapping
 
 ### 2.2 Leave & Attendance
 * [x] Leave Policy Types (Casual, Sick, Earned, Maternity, Paternity, Optional)
-* [ ] Leave Allocation Rules
+* [x] Leave Allocation Rules
 * [x] Holiday List (Import CSV with regional holidays)
 * [ ] Attendance Policy
 * [ ] Shift Types (General, Night, Flexible, Rotational)

@@ -39,6 +39,3 @@ This Code of Conduct applies to all repository spaces, including issues, pull re
 
 ## Contact
 If you experience or witness unacceptable behavior, please raise it with the maintainers directly.
-````
-
----

@@ -68,7 +68,7 @@ A big thank you to all our contributors who make this project possible! 🙏
 
 If you have questions or need assistance:
 - Check our [FAQ](FAQ.md) ❓
-- Open an [issue](https://github.com/your-org/Bude-ERPNext-Implementation-Docs/issues) 🐛
+- Open an [issue](https://github.com/BUDEGlobalEnterprise/bude-global-implementation/issues) 🐛
 - Reach out to the core team on Slack 📱
 
 ---

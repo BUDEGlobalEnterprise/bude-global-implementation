@@ -1,7 +1,3 @@
-Of course. Here is the formatted entry for Aravind Govindhasamy, ready to be added to your `CONTRIBUTORS.md` file.
-
----
-
 ### Contributors
 
 We would like to extend our sincere gratitude to the following individuals who have contributed their time, expertise, and effort to this project.
@@ -24,7 +20,22 @@ We would like to extend our sincere gratitude to the following individuals who h
       <br><br>
       <sub><i>Led the ERPNext framework architecture, contributed expertise in MDM, IoT, and RFID implementations.</i></sub>
     </td>
+    <td align="center" width="200">
+      </td>
+    <td align="center" width="200">
+      </td>
   </tr>
-  
+  <tr>
+    <td align="center" width="200">
+      </td>
+    <td align="center" width="200">
+      </td>
+    <td align="center" width="200">
+      </td>
+  </tr>
 </table>
 
+<div style="text-align: center; margin-top: 30px;">
+  <p style="font-style: italic; color: #666;">Interested in contributing to our project? <a href="/contact">Get in touch</a> to learn how you can join our team!</p>
+</div>
+<br>

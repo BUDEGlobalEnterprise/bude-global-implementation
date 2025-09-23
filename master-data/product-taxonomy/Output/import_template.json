@@ -1,0 +1,6 @@
+{
+  "doctype": "Data Import",
+  "import_type": "Insert New Records",
+  "reference_doctype": "Item Group",
+  "import_file": "erp_item_group_all.csv"
+}

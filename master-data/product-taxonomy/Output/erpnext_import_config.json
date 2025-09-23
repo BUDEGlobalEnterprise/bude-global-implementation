@@ -1,0 +1,37 @@
+{
+  "import_settings": {
+    "date_format": "YYYY-MM-DD",
+    "ignore_encoding_errors": true,
+    "submit_after_import": false,
+    "mute_emails": true
+  },
+  "field_mapping": {
+    "item_group": {
+      "required": [
+        "Item Group",
+        "Parent Item Group",
+        "Is Group"
+      ],
+      "optional": [
+        "Description",
+        "Tags",
+        "Level"
+      ]
+    },
+    "item_attribute": {
+      "required": [
+        "Attribute Name"
+      ],
+      "optional": [
+        "Description",
+        "Attribute Type",
+        "Required"
+      ]
+    }
+  },
+  "validation_rules": {
+    "is_group": "0 or 1",
+    "level": "integer >= 0",
+    "required": "Yes or No"
+  }
+}

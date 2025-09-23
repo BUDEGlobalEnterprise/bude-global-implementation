@@ -1,0 +1,6 @@
+item_code,item_name,item_group,description,is_stock_item,stock_uom,standard_rate
+Sample_PET_SUPPLIES,Sample Pet Supplies Product,Pet Supplies,Sample product from Pet Supplies category,1,Nos,100.0
+Sample_BIRD_CAGE_ACCESSORIES,Sample Bird Cage Accessories Product,Bird Cage Accessories,Sample product from Bird Cage Accessories category,1,Nos,100.0
+Sample_BIRD_CAGE_BIRD_BATHS,Sample Bird Cage Bird Baths Product,Bird Cage Bird Baths,Sample product from Bird Cage Bird Baths category,1,Nos,100.0
+Sample_BIRD_CAGE_FOOD_&_WATER_DISHES,Sample Bird Cage Food & Water Dishes Product,Bird Cage Food & Water Dishes,Sample product from Bird Cage Food & Water Dishes category,1,Nos,100.0
+Sample_BIRD_CAGE_FOOD_DISHES,Sample Bird Cage Food Dishes Product,Bird Cage Food Dishes,Sample product from Bird Cage Food Dishes category,1,Nos,100.0
